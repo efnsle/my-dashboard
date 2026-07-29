@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-st.image("C:\\Users\\Lenovo\\Downloads\\test-images.jpg", width=300)
+st.image("https://www.thousandeyes.com/img/blog-legacy/2020/03/Top-Banner-Best-Practices-Remote-Workforce-Dashboard.png", width=300)
 st.title('My-Dashboard:zap:')
 
 st.metric(label="My Profile Viewers", value=+999, delta=-1)
