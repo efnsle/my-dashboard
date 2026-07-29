@@ -1,6 +1,3 @@
-
-
-
 import streamlit as st
 import json
 import numpy as np
@@ -56,11 +53,3 @@ with st.expander("User Profile"):
     col1.text_input("Enter your NAME:")
     col2.text_input("Enter your LOCATION:")
     st.camera_input("Take a picture", key="camera_input")
-
-
-
-
-
-
-
-
